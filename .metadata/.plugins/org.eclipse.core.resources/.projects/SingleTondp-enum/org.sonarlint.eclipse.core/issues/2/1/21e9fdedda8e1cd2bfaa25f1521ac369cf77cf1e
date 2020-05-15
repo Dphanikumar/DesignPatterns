@@ -1,0 +1,5 @@
+
+^
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¬–éêž.H³RMINORZVULNERABILITY
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ŠäûÜH´RMAJORZ
+CODE_SMELL

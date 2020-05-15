@@ -1,0 +1,13 @@
+package com.phani.vehicle;
+
+public class StandardCar implements Car {
+
+	private Tyre tyre;
+	@Override
+	public void roadTest() {
+		
+		
+
+	}
+
+}

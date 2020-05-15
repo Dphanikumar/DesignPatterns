@@ -1,0 +1,43 @@
+package com.phani.factory;
+
+import com.phani.bike.Bajaj;
+import com.phani.bike.BajajPulsor;
+
+public class NagpurBajajBikeFactory {
+
+	public void paint() {
+		System.out.println("Painting Bike ");
+	}
+
+	public void assemble() {
+
+		System.out.println("Assembling the bike");
+	}
+
+	public void roadTest() {
+
+		System.out.println("roadtesting the bike");
+	}
+
+	public static Bajaj buildBike(String model) {
+		
+		Bajaj bike=null;
+		
+		if(model.equalsIgnoreCase("pulsor")){
+			bike=new BajajPulsor();
+					
+		}
+		else if(model.equalsIgnoreCase("discover")){
+			bike=new BajajPulsor();
+					
+		}
+		else if(model.equalsIgnoreCase("platina")){
+			bike=new BajajPulsor();
+					
+		}
+		
+		
+
+	}
+
+}

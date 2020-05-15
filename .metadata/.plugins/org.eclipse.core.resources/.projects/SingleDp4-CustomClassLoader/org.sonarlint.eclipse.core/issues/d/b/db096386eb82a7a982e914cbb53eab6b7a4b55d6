@@ -1,0 +1,50 @@
+
+c	java:S106y"9Replace this use of System.out or System.err by a logger.(Òé¿WHÐRMAJORZ
+CODE_SMELL
+l	java:S125="<This block of commented-out lines of code should be removed.(Ü©ÝÃøÿÿÿÿH×RMAJORZ
+CODE_SMELL
+l	java:S125."<This block of commented-out lines of code should be removed.(ÙÖý‚øÿÿÿÿHÔRMAJORZ
+CODE_SMELL
+R
+java:S3010"!Remove this assignment of "FLAG".(Éâ·»üÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+Y
+java:S1125"(Remove the literal "true" boolean value.(“ÅñèüÿÿÿÿHÊRMINORZ
+CODE_SMELL
+t
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑëHÌRMINORZ
+CODE_SMELL
+€
+java:S3008"ORename this field "FLAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îå¦öþÿÿÿÿHÈRMINORZ
+CODE_SMELL
+l	java:S1258"<This block of commented-out lines of code should be removed.(ÊøåþÿÿÿÿHÖRMAJORZ
+CODE_SMELL
+l	java:S125e"<This block of commented-out lines of code should be removed.(ÙÖý‚øÿÿÿÿHÙRMAJORZ
+CODE_SMELL
+j	java:S106€"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿHÑRMAJORZ
+CODE_SMELL
+l	java:S125+"<This block of commented-out lines of code should be removed.( þÅýÿÿÿÿHÓRMAJORZ
+CODE_SMELL
+f	java:S125G"<This block of commented-out lines of code should be removed.(È¤«zHØRMAJORZ
+CODE_SMELL
+~
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŽGHÇRMINORZ
+CODE_SMELL
+g	java:S125$"<This block of commented-out lines of code should be removed.(ÀÐÐ¯HÒRMAJORZ
+CODE_SMELL
+]
+java:S1135*"2Complete the task associated to this TODO comment.(¤‹ì«HÎRINFOZ
+CODE_SMELL
+]
+java:S1135#"2Complete the task associated to this TODO comment.(¤‹ì«HÍRINFOZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(šâæþÿÿÿÿHËRMAJORZ
+CODE_SMELL
+`
+java:S2168V"9Remove this dangerous instance of double-checked locking.(«Ï”HÏRBLOCKERZBUG
+v	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(–é»úÿÿÿÿHÆRMAJORZ
+CODE_SMELL
+l	java:S1256"<This block of commented-out lines of code should be removed.(±¤îûùÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+g	java:S125o"<This block of commented-out lines of code should be removed.(€ÂŸÜHÚRMAJORZ
+CODE_SMELL

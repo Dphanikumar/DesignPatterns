@@ -1,0 +1,27 @@
+package com.phani.test;
+
+import com.phani.factory.CarFactory;
+import com.phani.tyre.AppoloTyre;
+import com.phani.vehicle.Car;
+import com.phani.vehicle.StandardCar;
+
+public class CarDealer3 {
+
+	public static void main(String[] args) {
+		System.out.println("Budjet car Dealer");
+
+		Car car = null;
+
+		// get instance
+
+		car = CarFactory.getCarInstance("Sports");
+//		car.roadTest();if (carType.equalsIgnoreCase("Standard")) {
+		tyre = new AppoloTyre();
+		car = new StandardCar(tyre);
+
+	}
+
+
+	}
+
+}

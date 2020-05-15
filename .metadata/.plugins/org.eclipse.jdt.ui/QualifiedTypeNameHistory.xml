@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.phani.serialization.Student"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+<fullyQualifiedTypeName name="com.phani.reflectionapi.Student"/>
+<fullyQualifiedTypeName name="com.phani.test.SingleTonMultiThreadTest"/>
+<fullyQualifiedTypeName name="com.phani.commons.MultiThread"/>
+<fullyQualifiedTypeName name="com.phani.test.CloningSingleTonTest"/>
+<fullyQualifiedTypeName name="com.phani.cloning.Cloning"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+<fullyQualifiedTypeName name="com.phani.entity.Student"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.nio.channels.IllegalSelectorException"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.MARSHAL"/>
+<fullyQualifiedTypeName name="com.phani.sdp.Printer"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="com.phani.commons.CommansUtil"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="com.phani.multi.MultiThread"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="com.phani.entity.Printer.PrinterHolder"/>
+<fullyQualifiedTypeName name="com.phani.entity.Printer"/>
+<fullyQualifiedTypeName name="java.lang.Cloneable"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="com.phani.tyre.AppoloTyre"/>
+<fullyQualifiedTypeName name="com.phani.vehicle.StandardCar"/>
+<fullyQualifiedTypeName name="com.phani.tyre.MechallineTyre"/>
+<fullyQualifiedTypeName name="com.phani.vehicle.LuxaryCar"/>
+<fullyQualifiedTypeName name="com.phani.tyre.MRFTyre"/>
+<fullyQualifiedTypeName name="com.phani.vehicle.SportsCar"/>
+<fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+<fullyQualifiedTypeName name="com.phani.factory.CarFactory"/>
+<fullyQualifiedTypeName name="com.phani.bike.BajajPulsor"/>
+<fullyQualifiedTypeName name="com.phani.bike.BajajDiscover"/>
+<fullyQualifiedTypeName name="com.phani.bike.BajajPlatina"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="com.phani.bike.Bajaj"/>
+<fullyQualifiedTypeName name="com.phani.factory.BajajBikeFactory"/>
+<fullyQualifiedTypeName name="com.phani.factory.NagpurBajajBikeFactory"/>
+<fullyQualifiedTypeName name="com.phani.factory.ChennaiBajajBikeFactory"/>
+</qualifiedTypeNameHistroy>

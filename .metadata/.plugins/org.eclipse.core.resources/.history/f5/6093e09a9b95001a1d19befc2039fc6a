@@ -1,0 +1,11 @@
+package com.phani.bike;
+
+public class BajajPlatina implements Bajaj {
+
+	@Override
+	public void drive() {
+		System.out.println("BajajDiscover.drive()--Driving Bajaj Discover bike");
+
+	}
+
+}

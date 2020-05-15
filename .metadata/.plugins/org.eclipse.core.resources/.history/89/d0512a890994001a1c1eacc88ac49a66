@@ -1,0 +1,21 @@
+package com.phani.vehicle;
+
+import com.phani.tyre.Tyre;
+
+public class StandardCar implements Car {
+
+	private Tyre tyre;
+
+	public StandardCar(Tyre tyre) {
+
+		this.tyre = tyre;
+
+	}
+
+	@Override
+	public void roadTest() {
+		System.out.println("Driving standard car having " + tyre.info());
+
+	}
+
+}

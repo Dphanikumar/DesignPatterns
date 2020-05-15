@@ -1,0 +1,27 @@
+
+^
+java:S2093'"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHÊRCRITICALZ
+CODE_SMELL
+W
+java:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÀRMINORZVULNERABILITY
+e
+java:S2259H"@A "NullPointerException" could be thrown; "p2" is nullable here.(ŠäûÜHÂRMAJORZBUG
+d	java:S106"9Replace this use of System.out or System.err by a logger.(œôâ¤HÃRMAJORZ
+CODE_SMELL
+i	java:S106*"9Replace this use of System.out or System.err by a logger.(Œì§ßşÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+W
+java:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÁRMINORZVULNERABILITY
+d	java:S106H"9Replace this use of System.out or System.err by a logger.(ŠäûÜHËRMAJORZ
+CODE_SMELL
+y	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹’îêHÈRMINORZ
+CODE_SMELL
+^
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHÇRCRITICALZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(‡É»áHÅRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Êñ×èHÄRMAJORZ
+CODE_SMELL
+[	java:S108")Either remove or fill this block of code.(”ı¾8ííÀ™.HÔRMAJORZ
+CODE_SMELL

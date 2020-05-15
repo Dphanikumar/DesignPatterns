@@ -1,0 +1,36 @@
+package com.phani.factory;
+
+import com.phani.tyre.AppoloTyre;
+import com.phani.tyre.MRFTyre;
+import com.phani.tyre.MechallineTyre;
+import com.phani.tyre.Tyre;
+import com.phani.vehicle.Car;
+import com.phani.vehicle.LuxaryCar;
+import com.phani.vehicle.SportsCar;
+import com.phani.vehicle.StandardCar;
+
+public class CarFactory {
+
+	public static Car getCarInstance(String carType) {
+
+		Car car = null;
+		Tyre tyre = null;
+		if (carType.equalsIgnoreCase("Standard")) {
+			tyre = new AppoloTyre();
+			car = new StandardCar(tyre);
+
+		}
+
+		else if (carType.equalsIgnoreCase("Luxary")) {
+			tyre = new MechallineTyre();
+			car = new LuxaryCar(tyre);
+
+		} else if (carType.equalsIgnoreCase("Sports")) {
+			tyre = new MRFTyre();
+			car = new SportsCar(tyre);
+
+		}
+
+	}
+
+}

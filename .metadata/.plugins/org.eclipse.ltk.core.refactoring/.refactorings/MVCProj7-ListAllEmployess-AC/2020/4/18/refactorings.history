@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MVCProj7-ListAllEmployess-AC/DBscript.txt&apos; to &apos;DBscript.sql&apos;" description="Rename resource &apos;DBscript.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="DBscript.txt" name="DBscript.sql" stamp="1588216451240" updateReferences="true"/>
+</session>

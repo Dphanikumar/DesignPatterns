@@ -1,0 +1,17 @@
+package com.phani.entity.sdp3;
+
+public enum Printer {
+
+	INSTANCE;
+
+	public void print(String msg) {
+		System.out.println(msg);
+
+	}
+
+	public static Printer getInstance() {
+
+		System.out.println("Printer.getInstance()");
+		return INSTANCE;
+	}
+}

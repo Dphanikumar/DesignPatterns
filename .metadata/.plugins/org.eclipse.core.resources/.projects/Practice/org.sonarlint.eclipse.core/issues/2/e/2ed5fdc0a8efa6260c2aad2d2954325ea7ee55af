@@ -1,0 +1,36 @@
+
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÊ¨2H˜	RMINORZ
+CODE_SMELL
+^
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿH¢	RCRITICALZ
+CODE_SMELL
+i	java:S106K"9Replace this use of System.out or System.err by a logger.(å•¨ÖüÿÿÿÿH¦	RMAJORZ
+CODE_SMELL
+W
+java:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH	RMINORZVULNERABILITY
+d	java:S1063"9Replace this use of System.out or System.err by a logger.(øàòH£	RMAJORZ
+CODE_SMELL
+W
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH™	RMINORZVULNERABILITY
+W
+java:S1148$"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH›	RMINORZVULNERABILITY
+W
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHš	RMINORZVULNERABILITY
+b
+java:S1135#"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH¡	RINFOZ
+CODE_SMELL
+W
+java:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHœ	RMINORZVULNERABILITY
+p
+java:S2147"DCombine this catch with the one at line 24, which has the same body.(ï­£ÄHŸ	RMINORZ
+CODE_SMELL
+s
+java:S2259K"IA "NullPointerException" could be thrown; "deserialize" is nullable here.(å•¨ÖüÿÿÿÿH	RMAJORZBUG
+^
+java:S2093/"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿH¥	RCRITICALZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(§“ H 	RMAJORZ
+CODE_SMELL
+b
+java:S11356"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH¤	RINFOZ
+CODE_SMELL

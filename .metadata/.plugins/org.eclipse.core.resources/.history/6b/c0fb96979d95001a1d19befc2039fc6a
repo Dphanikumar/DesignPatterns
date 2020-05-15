@@ -1,0 +1,8 @@
+package com.phani.bike;
+
+public interface Bajaj {
+
+	void drive();
+	
+
+}

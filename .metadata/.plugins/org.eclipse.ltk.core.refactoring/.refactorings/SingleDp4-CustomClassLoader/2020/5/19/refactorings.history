@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.phani.entity&apos; to &apos;com.phani.entity.sdp1&apos;&#x0D;&#x0A;- Original project: &apos;SingleDp4-CustomClassLoader&apos;&#x0D;&#x0A;- Original element: &apos;SingleDp4-CustomClassLoader/src/com.phani.entity&apos;&#x0D;&#x0A;- Renamed element: &apos;SingleDp4-CustomClassLoader/src/com.phani.entity.sdp1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.phani.entity&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.phani.entity" name="com.phani.entity.sdp1" qualified="false" references="true" stamp="1588997201195" textual="false" version="1.0"/>
+</session>

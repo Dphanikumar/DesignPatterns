@@ -1,0 +1,13 @@
+package com.phani.factory;
+
+import com.phani.bike.Bajaj;
+
+public class NagpurBajajBikeFactory {
+
+	public static Bajaj buildBike(String model) {
+		
+		
+
+	}
+
+}

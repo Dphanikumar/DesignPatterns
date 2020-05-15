@@ -1,0 +1,13 @@
+
+g	java:S1250"<This block of commented-out lines of code should be removed.(…ö¬ÙHìRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(·£œÁÿÿÿÿÿHéRMAJORZ
+CODE_SMELL
+R
+java:S3010"!Remove this assignment of "flag".(³ÖÉÿÿÿÿÿHèRMAJORZ
+CODE_SMELL
+t
+java:S1182""HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑëHëRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿHêRMAJORZ
+CODE_SMELL

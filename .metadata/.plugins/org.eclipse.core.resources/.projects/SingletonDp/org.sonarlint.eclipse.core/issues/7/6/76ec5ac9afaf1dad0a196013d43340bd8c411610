@@ -1,0 +1,51 @@
+
+s	java:S125="<This block of commented-out lines of code should be removed.(Ü©İÃøÿÿÿÿ8©Ó†˜.Hä	RMAJORZ
+CODE_SMELL
+n	java:S125o"<This block of commented-out lines of code should be removed.(€ÂŸÜ8©Ó†˜.Hç	RMAJORZ
+CODE_SMELL
+d
+java:S1135#"2Complete the task associated to this TODO comment.(¤‹ì«8©Ó†˜.Hİ	RINFOZ
+CODE_SMELL
+d
+java:S1135*"2Complete the task associated to this TODO comment.(¤‹ì«8©Ó†˜.HÜ	RINFOZ
+CODE_SMELL
+n	java:S125$"<This block of commented-out lines of code should be removed.(ÀĞĞ¯8©Ó†˜.Há	RMAJORZ
+CODE_SMELL
+s	java:S125e"<This block of commented-out lines of code should be removed.(ÙÖı‚øÿÿÿÿ8©Ó†˜.Hæ	RMAJORZ
+CODE_SMELL
+m	java:S125G"<This block of commented-out lines of code should be removed.(È¤«z8©Ó†˜.Hå	RMAJORZ
+CODE_SMELL
+s	java:S1258"<This block of commented-out lines of code should be removed.(Êøåşÿÿÿÿ8©Ó†˜.Hã	RMAJORZ
+CODE_SMELL
+‡
+java:S3008"ORename this field "FLAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îå¦öşÿÿÿÿ8ªæŠ˜.H÷	RMINORZ
+CODE_SMELL
+Y
+java:S3010"!Remove this assignment of "FLAG".(Éâ·»üÿÿÿÿ8ªæŠ˜.Hø	RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Øº«ùşÿÿÿÿ8©Ó†˜.HÚ	RMAJORZ
+CODE_SMELL
+q	java:S106€"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ8©Ó†˜.Hà	RMAJORZ
+CODE_SMELL
+l	java:S1256"<This block of commented-out lines of code should be removed.(±¤îûùÿÿÿÿHÑ	RMAJORZ
+CODE_SMELL
+l	java:S125+"<This block of commented-out lines of code should be removed.( şÅıÿÿÿÿHÏ	RMAJORZ
+CODE_SMELL
+g
+java:S2168V"9Remove this dangerous instance of double-checked locking.(«Ï”8©Ó†˜.HŞ	RBLOCKERZBUG
+j	java:S106y"9Replace this use of System.out or System.err by a logger.(Òé¿W8©Ó†˜.Hß	RMAJORZ
+CODE_SMELL
+{
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë8©Ó†˜.HÛ	RMINORZ
+CODE_SMELL
+}	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(–é»úÿÿÿÿ8©Ó†˜.HØ	RMAJORZ
+CODE_SMELL
+…
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁG8öÙ‰˜.Hñ	RMINORZ
+CODE_SMELL
+s	java:S125."<This block of commented-out lines of code should be removed.(ÙÖı‚øÿÿÿÿ8©Ó†˜.Hâ	RMAJORZ
+CODE_SMELL
+`
+java:S1125"(Remove the literal "true" boolean value.(“Åñèüÿÿÿÿ8¦—Ş˜.Hñ
+RMINORZ
+CODE_SMELL

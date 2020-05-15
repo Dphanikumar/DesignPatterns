@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.phani.Threads&apos; to &apos;com.phani.runnables&apos;&#x0D;&#x0A;- Original project: &apos;EmployeeExampleDesignPatterns&apos;&#x0D;&#x0A;- Original element: &apos;EmployeeExampleDesignPatterns/src/com.phani.Threads&apos;&#x0D;&#x0A;- Renamed element: &apos;EmployeeExampleDesignPatterns/src/com.phani.runnables&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.phani.Threads&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.phani.Threads" name="com.phani.runnables" qualified="false" references="true" stamp="1588139612570" textual="false" version="1.0"/>
+</session>

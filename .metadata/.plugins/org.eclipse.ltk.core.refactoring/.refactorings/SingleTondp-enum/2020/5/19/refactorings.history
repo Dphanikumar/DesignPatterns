@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Printer.java&apos; to &apos;SingleDp4-CustomClassLoader/src/com.phani.entity.sdp3&apos;&#x0D;&#x0A;- Original project: &apos;SingleTondp-enum&apos;&#x0D;&#x0A;- Destination element: &apos;SingleDp4-CustomClassLoader/src/com.phani.entity.sdp3&apos;&#x0D;&#x0A;- Original element: &apos;com.phani.entity.Printer.java&apos;" description="Copy compilation unit" destination="=SingleDp4-CustomClassLoader/src&lt;com.phani.entity.sdp3" element1="/src&lt;com.phani.entity{Printer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1588997460212" units="1" version="1.0"/>
+</session>
