@@ -39,9 +39,17 @@
 <fullyQualifiedTypeName name="com.phani.bike.BajajPulsor"/>
 <fullyQualifiedTypeName name="com.phani.bike.BajajDiscover"/>
 <fullyQualifiedTypeName name="com.phani.bike.BajajPlatina"/>
-<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
 <fullyQualifiedTypeName name="com.phani.bike.Bajaj"/>
 <fullyQualifiedTypeName name="com.phani.factory.BajajBikeFactory"/>
 <fullyQualifiedTypeName name="com.phani.factory.NagpurBajajBikeFactory"/>
 <fullyQualifiedTypeName name="com.phani.factory.ChennaiBajajBikeFactory"/>
+<fullyQualifiedTypeName name="com.phani.dao.DBStudentDAOImpl"/>
+<fullyQualifiedTypeName name="com.phani.dao.DBCourseDAOImpl"/>
+<fullyQualifiedTypeName name="com.phani.dao.ExcelStudentDAOImpl"/>
+<fullyQualifiedTypeName name="com.phani.dao.DAO"/>
+<fullyQualifiedTypeName name="com.phani.factory.DBDAOFactory"/>
+<fullyQualifiedTypeName name="com.phani.factory.ExcelDAOFactory"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="com.phani.factory.DAOFactory"/>
+<fullyQualifiedTypeName name="com.phani.factory.DaoFactoryCreator"/>
 </qualifiedTypeNameHistroy>
