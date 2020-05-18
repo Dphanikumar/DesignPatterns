@@ -1,7 +1,0 @@
-package com.phani.entity.sdp1;
-
-import java.io.Serializable;
-
-public interface Commansutil extends Cloneable, Serializable {
-
-}
