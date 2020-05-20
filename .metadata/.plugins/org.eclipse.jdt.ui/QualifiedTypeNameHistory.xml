@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.phani.serialization.Student"/>
-<fullyQualifiedTypeName name="java.io.File"/>
-<fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
-<fullyQualifiedTypeName name="com.phani.reflectionapi.Student"/>
-<fullyQualifiedTypeName name="com.phani.test.SingleTonMultiThreadTest"/>
-<fullyQualifiedTypeName name="com.phani.commons.MultiThread"/>
-<fullyQualifiedTypeName name="com.phani.test.CloningSingleTonTest"/>
 <fullyQualifiedTypeName name="com.phani.cloning.Cloning"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
@@ -18,9 +11,7 @@
 <fullyQualifiedTypeName name="com.phani.sdp.Printer"/>
 <fullyQualifiedTypeName name="java.util.logging.Logger"/>
 <fullyQualifiedTypeName name="com.phani.commons.CommansUtil"/>
-<fullyQualifiedTypeName name="java.lang.Runnable"/>
 <fullyQualifiedTypeName name="com.phani.multi.MultiThread"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="com.phani.entity.Printer.PrinterHolder"/>
 <fullyQualifiedTypeName name="com.phani.entity.Printer"/>
 <fullyQualifiedTypeName name="java.lang.Cloneable"/>
@@ -49,7 +40,6 @@
 <fullyQualifiedTypeName name="com.phani.dao.DAO"/>
 <fullyQualifiedTypeName name="com.phani.factory.DBDAOFactory"/>
 <fullyQualifiedTypeName name="com.phani.factory.ExcelDAOFactory"/>
-<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
 <fullyQualifiedTypeName name="com.phani.factory.DAOFactory"/>
 <fullyQualifiedTypeName name="com.phani.factory.DaoFactoryCreator"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
@@ -60,4 +50,14 @@
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 <fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="com.phani.test.SingleTonThread"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="com.phani.singleton.SingleTonclass"/>
+<fullyQualifiedTypeName name="com.phani.recruitment.JavaFresher"/>
+<fullyQualifiedTypeName name="com.phani.recruitment.DotNetFresher"/>
+<fullyQualifiedTypeName name="java.lang.ref.PhantomReference"/>
+<fullyQualifiedTypeName name="com.phani.recruitment.PHPFresher"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="com.phani.factory.FresherFactory"/>
 </qualifiedTypeNameHistroy>

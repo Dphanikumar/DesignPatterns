@@ -2,43 +2,27 @@ package com.phani.singleton;
 
 public class SingleTonclass {
 
+	// instance of singleton class
 	private static SingleTonclass INSTANCE;
 
+	/*
+	 * to stop object creation outside of the class take private consructor it will
+	 * controls 90% of creating object outside of the class
+	 */
+
 	private SingleTonclass() {
-		System.out.println("SingleTonclass.SingleTonclass()");
 
 	}
 
+//	take static factory method to create and return same class or diff class object
+
 	public static SingleTonclass getInstance() {
 
-		System.out.println("Veera Lakshmi supraja");
-		System.out.println("Veera Lakshmi supraja");
-		System.out.println("Veera Lakshmi supraja");
-		System.out.println("Veera Lakshmi supraja");
-		System.out.println("Veera Lakshmi supraja");
-		System.out.println("Veera Lakshmi supraja");
-		System.out.println("Veera Lakshmi supraja");
-		if (INSTANCE == null) {
-			synchronized (SingleTonclass.class) {
-				if (INSTANCE == null)
-					INSTANCE = new SingleTonclass();
+		if (INSTANCE == null)
+			INSTANCE = new SingleTonclass();
 
-			}
-		}
-
-		// each and every time new object will be created
 		return INSTANCE;
 
 	}
 
-	// what are factory methods (a method that returns same class object or diff
-	// class obejct is called facrory method)
-
-	public static void main(String[] args) {
-
-		SingleTonclass v1 = getInstance();
-		SingleTonclass v2 = getInstance();
-		System.out.println(v1.hashCode() + " " + v2.hashCode());
-
-	}
 }
