@@ -1,9 +1,0 @@
-package com.phani.factory;
-
-public class CarFactory {
-
-	public static Car getCarInstance(String caType) {
-
-	}
-
-}

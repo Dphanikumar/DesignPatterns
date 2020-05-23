@@ -1,5 +1,0 @@
-package com.phani.tyre;
-
-public class MRFTyre implements  Tyre{
-
-}

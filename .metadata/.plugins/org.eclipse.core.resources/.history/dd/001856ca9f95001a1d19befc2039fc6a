@@ -1,5 +1,0 @@
-package com.phani.factory;
-
-public abstract class BajajBikeFactory {
-
-}

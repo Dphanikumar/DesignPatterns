@@ -1,9 +1,0 @@
-package com.phani.test;
-
-public class CarDealerOne {
-
-	public static void main(String[] args) {
-
-	}
-
-}

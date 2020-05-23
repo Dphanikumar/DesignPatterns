@@ -1,7 +1,0 @@
-package com.phani.factory;
-
-public abstract class BajajBikeFactory {
-
-	public abstract void paint();
-
-}

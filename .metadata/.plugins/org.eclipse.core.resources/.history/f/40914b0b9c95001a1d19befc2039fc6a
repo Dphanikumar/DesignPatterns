@@ -1,9 +1,0 @@
-package com.phani.factory;
-
-public class NagpurBajajBikeFactory {
-
-	public static void buildBike(String model) {
-
-	}
-
-}

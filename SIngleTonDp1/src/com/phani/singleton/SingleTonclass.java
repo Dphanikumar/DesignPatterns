@@ -1,7 +1,13 @@
 package com.phani.singleton;
 
-public class SingleTonclass {
+import java.io.Serializable;
 
+public class SingleTonclass implements Cloneable, Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	// instance of singleton class
 	private static SingleTonclass INSTANCE;
 
@@ -11,7 +17,13 @@ public class SingleTonclass {
 	 */
 
 	private SingleTonclass() {
+		System.out.println("SingleTonclass.SingleTonclass()");
 
+	}
+
+	@Override
+	public Object clone() throws CloneNotSupportedException {
+		throw new IllegalAccessError("Cloning is not supported on Singleton class");
 	}
 
 //	take static factory method to create and return same class or diff class object
@@ -23,6 +35,11 @@ public class SingleTonclass {
 
 		return INSTANCE;
 
+	}
+
+	public Object readResolve() throws IllegalAccessException {
+		System.out.println("SingleTonclass.readResolve()");
+		throw new IllegalAccessException("Desrialization not possible on Singleton classes");
 	}
 
 }

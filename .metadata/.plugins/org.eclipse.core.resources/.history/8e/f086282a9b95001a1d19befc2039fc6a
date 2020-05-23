@@ -1,7 +1,0 @@
-package com.phani.bike;
-
-public interface Bike {
-
-	void drive();
-
-}

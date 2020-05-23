@@ -1,7 +1,0 @@
-package com.phani.tyre;
-
-public interface Tyre {
-
-	Strign info();
-
-}
