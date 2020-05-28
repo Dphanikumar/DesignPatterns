@@ -15,9 +15,9 @@ public class SingletonTest1 {
 		boolean p = (p1 == p2) ? true : false;
 		System.out.println(p);
 
-		p1.print("Welcome");
-		p2.print("To the world");
-
+		/*
+		 * p1.print("Welcome"); p2.print("To the world");
+		 */
 		try {
 			Class.forName("com.phani.sdp.Printer");
 

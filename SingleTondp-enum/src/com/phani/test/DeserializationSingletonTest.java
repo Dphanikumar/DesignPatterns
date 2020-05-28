@@ -68,6 +68,7 @@ public class DeserializationSingletonTest {
 		// serialize(p1);
 
 		// Desrialing
+
 		p2 = (Printer) Deserialize();
 
 		System.out.println(p1.hashCode() + " " + p2.hashCode());

@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.phani.factory.ChennaiBajajBikeFactory"/>
-<fullyQualifiedTypeName name="com.phani.dao.DBStudentDAOImpl"/>
-<fullyQualifiedTypeName name="com.phani.dao.DBCourseDAOImpl"/>
-<fullyQualifiedTypeName name="com.phani.dao.ExcelStudentDAOImpl"/>
-<fullyQualifiedTypeName name="com.phani.dao.DAO"/>
-<fullyQualifiedTypeName name="com.phani.factory.DBDAOFactory"/>
-<fullyQualifiedTypeName name="com.phani.factory.ExcelDAOFactory"/>
-<fullyQualifiedTypeName name="com.phani.factory.DAOFactory"/>
-<fullyQualifiedTypeName name="com.phani.factory.DaoFactoryCreator"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="ArraysSort"/>
 <fullyQualifiedTypeName name="java.util.stream.Stream"/>
@@ -47,7 +37,6 @@
 <fullyQualifiedTypeName name="com.phani.builder.WoodenHouseBuilder"/>
 <fullyQualifiedTypeName name="com.phani.builder.iglooHouseBuilder"/>
 <fullyQualifiedTypeName name="com.phani.builder.MarbleHouseBuilder"/>
-<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
 <fullyQualifiedTypeName name="com.phani.director.CivilEngineer"/>
 <fullyQualifiedTypeName name="com.phani.factory.HouseFactory"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
@@ -60,4 +49,15 @@
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="com.paypal.external.PayPalComponent"/>
+<fullyQualifiedTypeName name="com.paypal.external.PayPalCompImpl"/>
+<fullyQualifiedTypeName name="com.fpkt.adpater.PayPalCompAdapter"/>
+<fullyQualifiedTypeName name="com.fpkt.service.FlipkartPaymentMgmtService"/>
+<fullyQualifiedTypeName name="com.fpkt.service.FlipkartPaymentMgmtServiceImpl"/>
+<fullyQualifiedTypeName name="java.lang.Enum"/>
+<fullyQualifiedTypeName name="com.phani.shape.Shape"/>
+<fullyQualifiedTypeName name="com.phani.shape.Square"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="java.awt.font.ShapeGraphicAttribute"/>
+<fullyQualifiedTypeName name="com.phani.factory.ShapeFactory"/>
 </qualifiedTypeNameHistroy>

@@ -1,14 +1,0 @@
-
-n	java:S1250"<This block of commented-out lines of code should be removed.(…ö¬Ù8ˆ—Ä™.HÚRMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(·£œÁÿÿÿÿÿ8“à™.H‰RMAJORZ
-CODE_SMELL
-{
-java:S1182""HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë8îæ®™.H£RMINORZ
-CODE_SMELL
-Y
-java:S3010"!Remove this assignment of "flag".(³ÖÉÿÿÿÿÿ8½¯ê™.H‘RMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ8›êı˜.Hù
-RMAJORZ
-CODE_SMELL

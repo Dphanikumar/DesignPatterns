@@ -1,0 +1,5 @@
+Fly weight DP
+
+Problem:: in  any environment if you want to create some common object which is common to all then we have to create that much objects it will leads memory issues
+
+Solution::  To avoid the creation on Objects multiple times take the support of static factory method and hashMap for caching

@@ -16,6 +16,8 @@ public class AdapterDpTest {
 
 			txMsg = service.doPayment(1234345, "SBI", 10000);
 			System.out.println(txMsg);
+			
+			
 
 		} catch (Exception e) {
 			e.printStackTrace();

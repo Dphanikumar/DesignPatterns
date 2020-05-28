@@ -17,9 +17,9 @@ public class ReflectionAPITest {
 		try {
 			Class forName = Class.forName("com.phani.sdp.Printer");
 			Constructor[] declaredConstructors = forName.getDeclaredConstructors();
-
-			Printer p2 = (Printer) declaredConstructors[0].newInstance();
 			declaredConstructors[0].setAccessible(true);
+			Printer p2 = (Printer) declaredConstructors[0].newInstance();
+
 			System.out.println(p1.hashCode() + "->  " + p2.hashCode());
 
 		} catch (Exception e) {
